@@ -1,6 +1,6 @@
 {
   "name": "@ai-swfactory-oss/branded-types",
-  "description": "Zod-backed branded string types: nominal string types checked at the boundary.",
+  "description": "Nominal branded types, and a non-empty-string guard for checking values at the boundary.",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",

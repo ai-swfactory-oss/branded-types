@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "license": "MIT",
-  "description": "branded-types workspace: Zod-backed branded string types.",
+  "description": "branded-types workspace: nominal branded types.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ai-swfactory-oss/branded-types.git"
