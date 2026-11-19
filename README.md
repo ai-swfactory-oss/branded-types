@@ -6,7 +6,7 @@ The code arrives by migration from the private ai-swfactory/branded-types (part 
 
 ## Packages
 
-- `@ai-swfactory-oss/branded-types`: the branded string types (a vocabulary package: pure types and functions).
+- `@ai-swfactory-oss/branded-types`: the branded string types (a package of kind sdk: pure types and functions; it takes no ports).
 
 ## Licence
 
